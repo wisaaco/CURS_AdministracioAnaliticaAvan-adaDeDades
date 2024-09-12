@@ -1,1 +1,1 @@
-# CURS_AdministracioAnaliticaAvan-adaDeDades
+# CURS_AdministracioAnaliticaAvançadaDeDades
