@@ -11,12 +11,15 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats
 
    lessons/0_sobre_aquest_curs
-   lessons/1_Infraestructura_execucio
-   lessons/2_Python_Introduccio
-   lessons/3_Pandas_Introduccio
-   lessons/4_Pandas_Estructura
-   lessons/5_Pandas_Modificacio
-   lessons/6_Pandas_Visualitzacions
+   lessons/1_python
+   lessons/2_pandas
+   lessons/3_preparacio_dades
+   lessons/4_introduccio_machine_learning
+   lessons/5_algorismes_no_supervisats
+   lessons/6_algorismes_supervistats
+   lessons/7_algorismes_supervistats_neuronals
+   lessons/8_introduccio_powerbI
+   lessons/9_introduccio_datalakes
 
 
 .. toctree::
