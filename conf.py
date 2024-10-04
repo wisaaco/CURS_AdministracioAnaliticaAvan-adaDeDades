@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Manipulació i anàlisi de dades basat en el llenguatge de programació Python (FG24 GOI0074 221)'
-copyright = '2023, Isaac Lera and Gabriel Moyà'
-author = 'Isaac Lera and Gabriel Moyà'
+copyright = '2024 Isaac Lera, Miquel Mirò, Gabriel Moyà'
+author = 'Isaac Lera, Miquel Mirò, Gabriel Moyà'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
