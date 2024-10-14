@@ -6,13 +6,23 @@
 Welcome to Curs Python EBAP's documentation!
 =============================================
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: Unitats
 
    lessons/0_sobre_aquest_curs
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Fundaments 
+
    lessons/1_python
    lessons/2_pandas
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Unitats del curs
+
    lessons/3_preparacio_dades
    lessons/4_introduccio_machine_learning
    lessons/5_algorismes_no_supervisats
