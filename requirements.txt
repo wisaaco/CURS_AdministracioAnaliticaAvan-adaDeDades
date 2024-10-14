@@ -1,4 +1,5 @@
 ipykernel
 nbsphinx
 pandas
+scikit-learn
 sphinx-rtd-theme
