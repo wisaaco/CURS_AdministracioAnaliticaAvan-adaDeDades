@@ -28,7 +28,7 @@ Welcome to Curs Python EBAP's documentation!
    lessons/5_algorismes_no_supervisats
    lessons/6_algorismes_supervistats
    lessons/7_algorismes_supervistats_neuronals
-   lessons/8_introduccio_powerbI
+   lessons/8_introduccio_powerbi
    lessons/9_introduccio_datalakes
 
 
