@@ -25,7 +25,7 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats del curs
 
    lessons/3_preparacio_dades
-   lessons/4_introduccio_ml
+   lessons/4_introducció_ml
    lessons/5_algorismes_no_supervisats
    lessons/6_algorismes_supervistats
    lessons/7_algorismes_supervistats_neuronals
