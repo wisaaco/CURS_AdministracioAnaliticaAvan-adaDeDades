@@ -14,7 +14,7 @@ Welcome to Curs Python EBAP's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Fundaments 
+   :caption: Fonaments 
 
    lessons/1_python
    lessons/2_Pandas
@@ -24,7 +24,7 @@ Welcome to Curs Python EBAP's documentation!
    :caption: Unitats del curs
 
    lessons/3_preparacio_dades
-   lessons/4_introducció_ml
+   lessons/4_introduccio_ml
    lessons/5_algoritmes_no_supervisats
    lessons/6_algoritmes_supervisats
    lessons/7_algorismes_supervistats_neuronals
