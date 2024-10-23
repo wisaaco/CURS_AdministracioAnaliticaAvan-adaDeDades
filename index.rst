@@ -18,7 +18,6 @@ Welcome to Curs Python EBAP's documentation!
 
    lessons/1_python
    lessons/2_Pandas
-   lessons/2b_Pandas_Visualitzacions
 
 .. toctree::
    :maxdepth: 2
